@@ -2,193 +2,89 @@
     {
         "id": "com.miHoYo.GenshinImpact",
         "name": "Genshin Impact",
-        "version": "2.7",
-        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/f3/d3/30/f3d33018-83d3-0e8d-af03-ae9736cd507e/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
-        "link": "https://ipa.playcover.workers.dev/0:/US/Genshin%20Impact%20Link%204_2.7.0.ipa",
+        "version": "2.8.0",
+        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/37/08/4d/37084d81-091e-a0d6-c34d-55f830214522/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/492x0w.webp",
+        "link": "https://ipa.playcover.workers.dev/0:/Genshin%20Impact/US/Genshin%20Impact_2.8.0.ipa",
         "region": "Global"
     },
     {
-        "id": "com.miHoYo.Yuanshen",
-        "name": "原神",
-        "version": "2.7",
-        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/f3/d3/30/f3d33018-83d3-0e8d-af03-ae9736cd507e/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
-        "link": "https://drive.google.com/file/d/1wOe03dvYQUuySwn2TtGzC6KYhjp7ev4N/view?usp=sharing",
-        "region": "CN"
+            "id": "com.miHoYo.Yuanshen",
+            "name": "原神",
+            "version": "2.8.0",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/9a/ae/919aae68-cb83-92de-22c0-fc353b43b62a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/492x0w.webp",
+            "link": "https://ipa.playcover.workers.dev/0:/Genshin%20Impact/CN/%E5%8E%9F%E7%A5%9E_2.8.0.ipa",
+            "region": "CN"
     },
     {
-        "id": "com.blizzard.diablo.immortal",
-        "name": "Diablo Immortal",
-        "version": "1.4",
-        "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/cb/f9/93cbf971-32ae-aee5-ab2e-afad3583797d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
-        "link": "https://ipa.playcover.workers.dev/0:/US/Diablo%20Immortal_1.4.886633.ipa",
-        "region": "Global"
+            "id": "com.blizzard.diablo.immortal",
+            "name": "Diablo Immortal",
+            "version": "1.4.925101",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/cb/f9/93cbf971-32ae-aee5-ab2e-afad3583797d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
+            "link": "https://ipa.playcover.workers.dev/0:/US/Diablo%20Immortal_1.4.925101.ipa",
+            "region": "Global"
     },
     {
-        "id": "com.netflix.Netflix",
-        "name": "Netflix",
-        "version": "13.0",
-        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/44/e1/27/44e12729-c402-eb5b-8a6b-4f3a3965bc08/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/230x0w.webp",
-        "link": "https://cdn.discordapp.com/attachments/875485117978640385/884008871146971146/Netflixfuncional.ipa",
-        "region": "Global"
+            "id": "com.netflix.Netflix",
+            "name": "Netflix",
+            "version": "14.40.0",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/44/e1/27/44e12729-c402-eb5b-8a6b-4f3a3965bc08/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/230x0w.webp",
+            "link": "https://ipa.playcover.workers.dev/0:/US/Netflix_14.40.0.ipa",
+            "region": "Global"
     },
     {
-        "id": "com.google.ios.youtube",
-        "name": "YouTube",
-        "version": "16.46.5",
-        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/7f/47/e5/7f47e590-489c-08a9-fa73-d0464af06488/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-        "link": "https://cdn.discordapp.com/attachments/886784702575415369/892571057448452127/YouTube.app.tar.zip",
-        "region": "Global"
+            "id": "com.google.ios.youtube",
+            "name": "YouTube",
+            "version": "17.24.4",
+            "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/7f/47/e5/7f47e590-489c-08a9-fa73-d0464af06488/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "link": "https://ipa.playcover.workers.dev/0:/US/YouTube_17.24.4.ipa",
+            "region": "Global"
     },
     {
-        "id": "com.garena.game.codm",
-        "name": "CODM Garena",
-        "version": "1.6.29",
-        "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/e6/39/6a/e6396a90-b602-92c6-ce68-0da30735dfee/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp",
-        "link": "https://mega.nz/folder/1BE3gKDK#RYFd5eGkAP3KGPw9reisUw",
-        "region": "Global"
+            "id": "com.devsisters.ck", 
+            "name": "Cookie Run Kingdom", 
+            "version": "3.3.101",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/21/5f/60/215f6039-7d17-9bee-277b-7c55e4d60388/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Cookie%20Run:%20Kingdom_3.3.101.ipa",
+            "region": "Global"
     },
     {
-        "id": "com.activision.callofduty.shooter",
-        "name": "Call Of Duty Mobile",
-        "version": "1.0.29",
-        "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/05/2a/2b/052a2bde-a4fd-c763-d852-5a7e87aa2463/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp",
-        "link": "https://drive.google.com/file/d/1V7Z-yw4x9tCMk_zIyHQmiioQ8CgQ9hIr/view?usp=sharing",
-        "region": "Global"
+            "id": "com.innersloth.amongus", 
+            "name": "Among Us", 
+            "version": "2022.6.21",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/d0/9e/a8d09e88-6260-1ea6-c4a8-54b4d483a8a0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Among%20Us_2022.6.21.ipa",
+            "region": "Global"
     },
     {
-        "id": "com.ngame.allstar.eu",
-        "name": "Arena of Valor",
-        "version": "1.42.1618779",
-        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/84/fc/97/84fc97c3-4195-0f49-f614-2859a53c89b9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
-        "link": "https://drive.google.com/file/d/17Oe1D_afRnOfYZx89lcN4FQtRwzNHwPE/view?usp=sharing",
-        "region": "Global"
+            "id": "com.ark.nights", 
+            "name": "Arknights", 
+            "version": "10.0.01", 
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/08/e7/d9/08e7d983-81b5-f2e6-da04-d6196c9313dc/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Arknights_10.0.01.ipa",
+            "region": "Global"
     },
     {
-        "id": "com.devsisters.ck",
-        "name": "Cookie Run Kingdom",
-        "version": "2.4.001",
-        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/21/5f/60/215f6039-7d17-9bee-277b-7c55e4d60388/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1wXqDH25-9PQjCOdbHBemsTDZv9GuyzZY/view?usp=sharing",
-        "region": "Global"
+            "id": "com.mobile.legends", 
+            "name": "Mobile Legends: Bang Bang", 
+            "version": "1.6.95", 
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/10/62/35/10623557-e3d2-746a-1885-73fdc719a558/AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Mobile%20Legends:%20Bang%20Bang_1.6.95.ipa",
+            "region": "Global"
     },
     {
-        "id": "com.innersloth.amongus",
-        "name": "Among Us",
-        "version": "2021.11.9",
-        "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/d0/9e/a8d09e88-6260-1ea6-c4a8-54b4d483a8a0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1ymmqVSAqNe8U5x8kmMXFyQJZRlwvscH9/view?usp=sharing",
-        "region": "Global"
+            "id": "com.pokemon.unite", 
+            "name": "Pokemon Unite", 
+            "version": "1.4.1387775",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/94/ee/bd/94eebdf0-07b1-402c-707f-dff8e5c0c72b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Pok%C3%A9mon%20UNITE_1.4.1387775.ipa",
+            "region": "Global"
     },
     {
-        "id": "com.dts.freefiremax",
-        "name": "Free Fire MAX",
-        "version": "2.67.0",
-        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/df/75/31/df753126-d8e9-86ae-de52-3735ddcae665/AppIcon-1635694631-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1sv6nFY2PdJcM4hWpHicX2ceIorYfMT7O/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.roblox.robloxmobile",
-        "name": "Roblox",
-        "version": "2.501.362",
-        "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/ee/ac/00/eeac00ab-41f2-076a-fdf5-e3da47d033f8/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
-        "link": "https://drive.google.com/file/d/1h5w3kBegPJTyrbdgJeVUynNPe819nlT8/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.ark.nights",
-        "name": "Arknights",
-        "version": "5.0.01",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/08/e7/d9/08e7d983-81b5-f2e6-da04-d6196c9313dc/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp",
-        "link": "https://drive.google.com/file/d/1iNTfSA7VZuVWRKqYlS6GrC3hEpNrNo9f/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.apple.GarageBand",
-        "name": "GarageBand",
-        "version": "2.3.11",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6c/a1/a7/6ca1a7aa-b3cb-2f02-7b8e-0e74c7209164/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-85-220.png/460x0w.webp",
-        "link": "https://drive.google.com/file/d/1XrSdKus028bat8E_KTsR_22df4zODSTa/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.amazon.aiv.AIVApp",
-        "name": "Prime Video",
-        "version": "8.41",
-        "icon": "https://play-lh.googleusercontent.com/VojafVZNddI6JvdDGWFrRmxc-prrcInL2AuBymsqGoeXjT4f9sv7KnetB-v3iLxk_Koi=s360",
-        "link": "https://drive.google.com/file/d/1_7cRaKkJTEwzOQHuB0cbQ8US_sUImC5G/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.mobile.legends",
-        "name": "MobileLegends",
-        "version": "1.6.18",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/10/62/35/10623557-e3d2-746a-1885-73fdc719a558/AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp",
-        "link": "https://drive.google.com/file/d/11yDt7DJQoD998k12qL4N9dkORK9W4B4O/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.disney.disneyplus",
-        "name": "Disney+",
-        "version": "2.2.2",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/3c/74/903c74da-5fcf-a847-2199-bcad9e8bfaef/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1DhpSWTLRMY-MT_ObEU4oQJF35gc3ous4/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.ea.game.pvz2_row",
-        "name": "Plants vs. Zombies™ 2",
-        "version": "9.1.1",
-        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/47/58/81/47588154-05cb-0377-2dbc-1eb1b753f85e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
-        "link": "https://cdn.discordapp.com/attachments/875485117978640385/884391915506782268/Plants_vs._Zombies_2_Decrypted.ipa",
-        "region": "Global"
-    },
-    {
-        "id": "com.robtop.geometrydashworld",
-        "name": "Geometry Dash World",
-        "version": "1.0.1",
-        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2f/c8/aa/2fc8aabb-d90e-aa5b-7c73-fc31fb6ba368/AppIcon-1x_U007emarketing-85-220-9.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1YngeW-TcqCOSfa0PTrUD-PFQWNobuisw/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "jp.co.ponos.battlecatsen",
-        "name": "The Battle Cats",
-        "version": "10.8.0",
-        "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/ed/e6/80/ede680e6-1bcf-4800-449b-a096b13a2442/AppIcon-en-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1F7jcLLS-5-XYU6Fawb7TBy_oLbqNY1He/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.pokemon.unite",
-        "name": "Pokemon Unite",
-        "version": "1.2.1324739",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/94/ee/bd/94eebdf0-07b1-402c-707f-dff8e5c0c72b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1yzmAkZp-oG79MWBW-aFYwlM7uRxM3OjA/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.riotgames.legendsofruneterra",
-        "name": "Legends of Runterra",
-        "version": "10.8.0",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/29/b8/ed/29b8ed2f-5498-60d3-de3f-1e1ea08a7a7a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1frsR1Jnr6U05LFP50MrjnzAcZWXOxHzn/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.criticalforceentertainment.criticalops",
-        "name": "Critical Ops",
-        "version": "1.27.4",
-        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/9d/2d/b3/9d2db383-ec42-2c02-ca65-892023b86dde/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
-        "link": "https://drive.google.com/file/d/1yXurEQbSjN5MJk7X2o3qQRP3I8IM5qqG/view?usp=sharing",
-        "region": "Global"
-    },
-    {
-        "id": "com.dts.freefireth",
-        "name": "Free Fire",
-        "version": "1.64.5",
-        "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/24/c4/17/24c41744-4a43-cf18-43c0-edba9d9e43ee/AppIcon-1629194886-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
-        "link": "https://drive.google.com/file/d/1iTfCcarfeZMlaKf7SjxDuwfNy62COaYZ/view?usp=sharing",
-        "region": "Global"
+            "id": "com.riotgames.legendsofruneterra", 
+            "name": "Legends of Runeterra", 
+            "version": "3.10",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/29/b8/ed/29b8ed2f-5498-60d3-de3f-1e1ea08a7a7a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Legends%20of%20Runeterra_03.10.008.ipa",
+            "region": "Global"
     }
 ]
