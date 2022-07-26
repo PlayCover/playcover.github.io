@@ -1,3 +1,3 @@
-# playcover.github.io
+# playcover-website
 
-here lies a website in the distant future
+Here lies PlayCover's website. More info coming soon.
