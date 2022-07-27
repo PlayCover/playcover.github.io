@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7732c37f.css",
-    "main.js": "/static/js/main.613455b2.js",
+    "main.css": "/static/css/main.9729e893.css",
+    "main.js": "/static/js/main.9773fc0b.js",
     "static/media/LufgaThinItalic.ttf": "/static/media/LufgaThinItalic.b43bf28d5db6bce92882.ttf",
     "static/media/LufgaLightItalic.ttf": "/static/media/LufgaLightItalic.588fc6f650b75ed396cb.ttf",
     "static/media/LufgaItalic.ttf": "/static/media/LufgaItalic.d12000412011b83b7bb7.ttf",
@@ -25,11 +25,11 @@
     "static/media/gradient-left-light.svg": "/static/media/gradient-left-light.2aab891e2b1a987813d57637f1e51bed.svg",
     "static/media/gradient-left-dark.svg": "/static/media/gradient-left-dark.9c303a42d2f20800ed02fb6792ae5c14.svg",
     "index.html": "/index.html",
-    "main.7732c37f.css.map": "/static/css/main.7732c37f.css.map",
-    "main.613455b2.js.map": "/static/js/main.613455b2.js.map"
+    "main.9729e893.css.map": "/static/css/main.9729e893.css.map",
+    "main.9773fc0b.js.map": "/static/js/main.9773fc0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7732c37f.css",
-    "static/js/main.613455b2.js"
+    "static/css/main.9729e893.css",
+    "static/js/main.9773fc0b.js"
   ]
 }
