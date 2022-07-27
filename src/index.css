@@ -1,0 +1,142 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Background for Safari */
+body {
+    background: #F3F4F6;
+}
+
+body .dark {
+    background: #181818;
+}
+
+/* Fonts */
+/* Thin */
+@font-face {
+    font-family: "Lufga";
+    font-style: normal;
+    font-weight: 200;
+    src: local('Lufga'), url(./assets/fonts/LufgaThin.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lufga";
+    font-style: italic;
+    font-weight: 200;
+    src: local('Lufga'), url(./assets/fonts/LufgaThinItalic.ttf) format('truetype');
+}
+
+/* Light */
+@font-face {
+    font-family: "Lufga";
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lufga'), url(./assets/fonts/LufgaLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lufga";
+    font-style: italic;
+    font-weight: 300;
+    src: local('Lufga'), url(./assets/fonts/LufgaLightItalic.ttf) format('truetype');
+}
+
+/* Regular */
+@font-face {
+    font-family: "Lufga";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lufga'), url(./assets/fonts/LufgaRegular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lufga";
+    font-style: italic;
+    font-weight: 400;
+    src: local('Lufga'), url(./assets/fonts/LufgaItalic.ttf) format('truetype');
+}
+
+/* Medium */
+@font-face {
+    font-family: "Lufga";
+    font-style: normal;
+    font-weight: 500;
+    src: local('Lufga'), url(./assets/fonts/LufgaMedium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lufga";
+    font-style: italic;
+    font-weight: 500;
+    src: local('Lufga'), url(./assets/fonts/LufgaMediumItalic.ttf) format('truetype');
+}
+
+/* Semi-bold */
+@font-face {
+    font-family: "Lufga";
+    font-style: normal;
+    font-weight: 600;
+    src: local('Lufga'), url(./assets/fonts/LufgaSemiBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lufga";
+    font-style: italic;
+    font-weight: 600;
+    src: local('Lufga'), url(./assets/fonts/LufgaSemiBoldItalic.ttf) format('truetype');
+}
+
+/* Bold */
+@font-face {
+    font-family: "Lufga";
+    font-style: normal;
+    font-weight: 700;
+    src: local('Lufga'), url(./assets/fonts/LufgaBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lufga";
+    font-style: italic;
+    font-weight: 700;
+    src: local('Lufga'), url(./assets/fonts/LufgaBoldItalic.ttf) format('truetype');
+}
+
+/* Extra-bold */
+@font-face {
+    font-family: "Lufga";
+    font-style: normal;
+    font-weight: 800;
+    src: local('Lufga'), url(./assets/fonts/LufgaExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lufga";
+    font-style: italic;
+    font-weight: 800;
+    src: local('Lufga'), url(./assets/fonts/LufgaExtraBoldItalic.ttf) format('truetype');
+}
+
+/* Black */
+@font-face {
+    font-family: "Lufga";
+    font-style: normal;
+    font-weight: 900;
+    src: local('Lufga'), url(./assets/fonts/LufgaBlack.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Lufga";
+    font-style: italic;
+    font-weight: 900;
+    src: local('Lufga'), url(./assets/fonts/LufgaBlackItalic.ttf) format('truetype');
+}
+
+/* Medium */
+
+@font-face {
+    font-family: "Itcavantgardestdmd";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Itcavantgardestdmd'), url(./assets/fonts/ITCAvantGardeStdMd.otf) format('opentype');
+}
