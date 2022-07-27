@@ -1,0 +1,90 @@
+[
+    {
+        "id": "com.miHoYo.GenshinImpact",
+        "name": "Genshin Impact",
+        "version": "2.8.0",
+        "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/37/08/4d/37084d81-091e-a0d6-c34d-55f830214522/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/492x0w.webp",
+        "link": "https://ipa.playcover.workers.dev/0:/Genshin%20Impact/US/Genshin%20Impact_2.8.0.ipa",
+        "region": "Global"
+    },
+    {
+            "id": "com.miHoYo.Yuanshen",
+            "name": "原神",
+            "version": "2.8.0",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/91/9a/ae/919aae68-cb83-92de-22c0-fc353b43b62a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/492x0w.webp",
+            "link": "https://ipa.playcover.workers.dev/0:/Genshin%20Impact/CN/%E5%8E%9F%E7%A5%9E_2.8.0.ipa",
+            "region": "CN"
+    },
+    {
+            "id": "com.blizzard.diablo.immortal",
+            "name": "Diablo Immortal",
+            "version": "1.4.925101",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/cb/f9/93cbf971-32ae-aee5-ab2e-afad3583797d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
+            "link": "https://ipa.playcover.workers.dev/0:/US/Diablo%20Immortal_1.4.925101.ipa",
+            "region": "Global"
+    },
+    {
+            "id": "com.netflix.Netflix",
+            "name": "Netflix",
+            "version": "14.40.0",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/44/e1/27/44e12729-c402-eb5b-8a6b-4f3a3965bc08/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/230x0w.webp",
+            "link": "https://ipa.playcover.workers.dev/0:/US/Netflix_14.40.0.ipa",
+            "region": "Global"
+    },
+    {
+            "id": "com.google.ios.youtube",
+            "name": "YouTube",
+            "version": "17.24.4",
+            "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/7f/47/e5/7f47e590-489c-08a9-fa73-d0464af06488/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "link": "https://ipa.playcover.workers.dev/0:/US/YouTube_17.24.4.ipa",
+            "region": "Global"
+    },
+    {
+            "id": "com.devsisters.ck", 
+            "name": "Cookie Run Kingdom", 
+            "version": "3.3.101",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/21/5f/60/215f6039-7d17-9bee-277b-7c55e4d60388/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Cookie%20Run:%20Kingdom_3.3.101.ipa",
+            "region": "Global"
+    },
+    {
+            "id": "com.innersloth.amongus", 
+            "name": "Among Us", 
+            "version": "2022.6.21",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/d0/9e/a8d09e88-6260-1ea6-c4a8-54b4d483a8a0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Among%20Us_2022.6.21.ipa",
+            "region": "Global"
+    },
+    {
+            "id": "com.ark.nights", 
+            "name": "Arknights", 
+            "version": "10.0.01", 
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/08/e7/d9/08e7d983-81b5-f2e6-da04-d6196c9313dc/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Arknights_10.0.01.ipa",
+            "region": "Global"
+    },
+    {
+            "id": "com.mobile.legends", 
+            "name": "Mobile Legends: Bang Bang", 
+            "version": "1.6.95", 
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/10/62/35/10623557-e3d2-746a-1885-73fdc719a558/AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Mobile%20Legends:%20Bang%20Bang_1.6.95.ipa",
+            "region": "Global"
+    },
+    {
+            "id": "com.pokemon.unite", 
+            "name": "Pokemon Unite", 
+            "version": "1.4.1387775",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/94/ee/bd/94eebdf0-07b1-402c-707f-dff8e5c0c72b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Pok%C3%A9mon%20UNITE_1.4.1387775.ipa",
+            "region": "Global"
+    },
+    {
+            "id": "com.riotgames.legendsofruneterra", 
+            "name": "Legends of Runeterra", 
+            "version": "3.10",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/29/b8/ed/29b8ed2f-5498-60d3-de3f-1e1ea08a7a7a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp", 
+            "link": "https://ipa.playcover.workers.dev/0:/US/Legends%20of%20Runeterra_03.10.008.ipa",
+            "region": "Global"
+    }
+]

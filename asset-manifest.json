@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7732c37f.css",
+    "main.js": "/static/js/main.613455b2.js",
+    "static/media/LufgaThinItalic.ttf": "/static/media/LufgaThinItalic.b43bf28d5db6bce92882.ttf",
+    "static/media/LufgaLightItalic.ttf": "/static/media/LufgaLightItalic.588fc6f650b75ed396cb.ttf",
+    "static/media/LufgaItalic.ttf": "/static/media/LufgaItalic.d12000412011b83b7bb7.ttf",
+    "static/media/LufgaMediumItalic.ttf": "/static/media/LufgaMediumItalic.02ca93388a726188bdc6.ttf",
+    "static/media/LufgaExtraBoldItalic.ttf": "/static/media/LufgaExtraBoldItalic.1aac7b250cf8992d2113.ttf",
+    "static/media/LufgaSemiBoldItalic.ttf": "/static/media/LufgaSemiBoldItalic.23686316ab17ba8db0b2.ttf",
+    "static/media/LufgaBoldItalic.ttf": "/static/media/LufgaBoldItalic.4f8ae5bed35a4ab26449.ttf",
+    "static/media/LufgaBlackItalic.ttf": "/static/media/LufgaBlackItalic.8befe9e663322c0f2cab.ttf",
+    "static/media/LufgaThin.ttf": "/static/media/LufgaThin.f1320a06fc9c45739378.ttf",
+    "static/media/LufgaLight.ttf": "/static/media/LufgaLight.6ef28164cd0173eb2011.ttf",
+    "static/media/LufgaBold.ttf": "/static/media/LufgaBold.0b819e404b04598770c3.ttf",
+    "static/media/LufgaMedium.ttf": "/static/media/LufgaMedium.8a6e8c322b3081e46655.ttf",
+    "static/media/LufgaSemiBold.ttf": "/static/media/LufgaSemiBold.3c7b91dccc58aeffca0e.ttf",
+    "static/media/LufgaRegular.ttf": "/static/media/LufgaRegular.4f0d570c75aa41c936e1.ttf",
+    "static/media/LufgaExtraBold.ttf": "/static/media/LufgaExtraBold.46261de7bc95e50bfe6f.ttf",
+    "static/media/LufgaBlack.ttf": "/static/media/LufgaBlack.bea425e3adccfbdb24fb.ttf",
+    "static/media/ITCAvantGardeStdMd.otf": "/static/media/ITCAvantGardeStdMd.9a2803b983b9375f2c85.otf",
+    "static/media/play-cover.png": "/static/media/play-cover.0e542de331f48c6bf8cf.png",
+    "static/media/gradient-right-light.svg": "/static/media/gradient-right-light.5719f0699b17f8a4b287159f5cd95e30.svg",
+    "static/media/gradient-right-dark.svg": "/static/media/gradient-right-dark.d1be274f3f20040e3350afb858455729.svg",
+    "static/media/gradient-left-light.svg": "/static/media/gradient-left-light.2aab891e2b1a987813d57637f1e51bed.svg",
+    "static/media/gradient-left-dark.svg": "/static/media/gradient-left-dark.9c303a42d2f20800ed02fb6792ae5c14.svg",
+    "index.html": "/index.html",
+    "main.7732c37f.css.map": "/static/css/main.7732c37f.css.map",
+    "main.613455b2.js.map": "/static/js/main.613455b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7732c37f.css",
+    "static/js/main.613455b2.js"
+  ]
+}
