@@ -8,7 +8,7 @@ body {
 }
 
 body .dark {
-    background: #181818;
+    background: #181818 !important;
 }
 
 /* Fonts */
