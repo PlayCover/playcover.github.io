@@ -60,13 +60,13 @@ export default class Changelog extends Component {
                                         <path fill="currentColor" fillRule="evenodd" d="M15.5 11.75a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0zm1.444-.75a5.001 5.001 0 00-9.888 0H2.75a.75.75 0 100 1.5h4.306a5.001 5.001 0 009.888 0h4.306a.75.75 0 100-1.5h-4.306z"></path>
                                     </svg>
                                 </div>
-                                <div className="overflow-scroll">
+                                <div className="">
                                     <div>
-                                        <div className="flex items-center my-4 overflow-auto">
+                                        <div className="flex items-center my-4">
                                             <img src={release.author.avatar_url} alt={release.author.login} title={release.author.login} className="border-2 rounded-full mt-1 h-8 w-8"/>
                                             <span className="ml-2.5 mt-1 text-2xl font-itcavantgardestdmd bg-clip-text text-transparent bg-gradient-to-r from-pc-g to-pc-b">{release.name}</span>
                                         </div>
-                                        <div className="overflow-scroll">
+                                        <div className="">
                                             <ReactMarkdown remarkPlugins={[remarkGfm]} children={release.body} components={{
                                                 li: props => <div className="whitespace-pre-wrap"><span className="text-xl font-bold">•</span> {props.children}</div>,
                                                 p: props => <div className="py-2.5">{props.children}</div>,
